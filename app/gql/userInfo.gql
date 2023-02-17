@@ -1,0 +1,12 @@
+query UserInfo {
+  viewer {
+    firstName
+    email
+    lastName
+    name
+    nicename
+    nickname
+    registeredDate
+    username
+  }
+}
